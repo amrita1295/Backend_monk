@@ -1,5 +1,5 @@
 # Post sharing application
-**Backend**
+### Backend
 * Install node modules by 'npm install'.
 * config folder contains keys of different API's used.
 * Middleware contains a file that will be used in signing up and other features of this application. Instead of writing code again and again it is built inside a folder and can be  pasted according to our use.
