@@ -1,0 +1,22 @@
+{
+  "name": "backend_monk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrita1295/Backend_monk.git"
+  },
+  "author": "Amrita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrita1295/Backend_monk/issues"
+  },
+  "homepage": "https://github.com/amrita1295/Backend_monk#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
