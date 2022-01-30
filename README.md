@@ -1,1 +1,4 @@
-# Backend_monk
+# Post sharing application
+**Backend**
+* Install node modules by 'npm install'.
+* 
