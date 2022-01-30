@@ -7,12 +7,18 @@
 * In routes section, contains the requests and responses of the frontend section. 
 * package.json contains all the details of the dependencies involved in the creation of this application and is created by 'npm init'.
 
-# Work Left
+# Work Undergoing
 * Instead of using JsonWebToken for authentication , trying to use google console API and AUTH2.0  for authentication so that the user can sign in with the email directly instead of writing the passwords again and again.
 * Working on search query , currently is searching with the email id's instead of username.
 * Struggling to write a query of delete account from the database.
 
 # Attached screenshots of the working server
+![Screenshot (248)](https://user-images.githubusercontent.com/56605853/151711969-98c2c5c0-3414-43c2-b19d-226ed32b4eb8.png)
+![Screenshot (249)](https://user-images.githubusercontent.com/56605853/151711997-15795af0-3b76-4bb3-97a6-3813911e3450.png)
+![Screenshot (250)](https://user-images.githubusercontent.com/56605853/151712006-063406f0-01b9-41ee-a6a5-7a21eb05e070.png)
+![Screenshot (251)](https://user-images.githubusercontent.com/56605853/151712011-b47c1839-4363-4b13-b8de-8471ba953bae.png)
+![Screenshot (252)](https://user-images.githubusercontent.com/56605853/151712020-d40c3dcf-1bd6-4397-b9e8-cfc2a9ce4e2a.png)
+![Screenshot (253)](https://user-images.githubusercontent.com/56605853/151712024-c4ce8598-069c-4b70-bcf7-47743d67f65e.png)
 
 
 
