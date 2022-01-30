@@ -13,8 +13,11 @@
 * Struggling to write a query of delete account from the database.
 
 # Attached screenshots of the working server
+**Database connected**
 ![Screenshot (248)](https://user-images.githubusercontent.com/56605853/151711969-98c2c5c0-3414-43c2-b19d-226ed32b4eb8.png)
+**Signup screen**
 ![Screenshot (249)](https://user-images.githubusercontent.com/56605853/151711997-15795af0-3b76-4bb3-97a6-3813911e3450.png)
+**Signin screen**
 ![Screenshot (250)](https://user-images.githubusercontent.com/56605853/151712006-063406f0-01b9-41ee-a6a5-7a21eb05e070.png)
 ![Screenshot (251)](https://user-images.githubusercontent.com/56605853/151712011-b47c1839-4363-4b13-b8de-8471ba953bae.png)
 ![Screenshot (252)](https://user-images.githubusercontent.com/56605853/151712020-d40c3dcf-1bd6-4397-b9e8-cfc2a9ce4e2a.png)
