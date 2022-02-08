@@ -1,7 +1,7 @@
 
 ### Description
 
-Book Store is a simple single page application (SPA) that lets you buy, rate and leave your comment for all the books that are available in the store. You can also see all of your purchased books history or create your own favorite books list.
+Book Store is a simple single page application that lets you buy, rate and leave your comment for all the books that are available in the store. You can also see all of your purchased books history or create your own favorite books list.
 
 ### Tech
 
@@ -88,11 +88,3 @@ $ ng serve
     - Block/Unblock user from commenting
     - Change unappropriate user avatars
 
-### Authors
-
-* [Zhelyan Radoev](https://github.com/jeliozver)
-
-### License
-----
-
-MIT
